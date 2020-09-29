@@ -2,9 +2,8 @@
   "name": "ui",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/monoxane/skeleton",
-  "author": "Oliver Herrmann",
-  "license": "MIT",
+  "repository": "https://github.com/Jsanderson2005/Streaming-Platform",
+  "author": "Joshua Sanderson",
   "scripts": {
     "build": "webpack --mode production ui/src/index.js",
     "dev": "webpack-dev-server"
