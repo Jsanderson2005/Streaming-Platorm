@@ -2,10 +2,9 @@
   "name": "server",
   "version": "1.0.0",
   "main": "src/main.js",
-  "repository": "https://github.com/monoxane/skeleton",
-  "author": "Oliver Herrmann <oliver@monoxane.io>",
-  "license": "MIT",
-  "private": "true",
+  "repository": "https://github.com/Jsanderson2005/Streaming-Platform",
+  "author": "Joshua Sanderson",
+  "private": "false",
   "scripts": {
     "build": "babel src/server -d dist/core",
     "dev": "babel-node src/main.js"
