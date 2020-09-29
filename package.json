@@ -1,9 +1,9 @@
 {
   "name": "skeleton",
   "version": "1.0.0",
-  "author": "Oliver Herrmann <oliver@monoxane.io>",
+  "author": "Joshua Sanderson",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": [
     "server",
     "ui"
