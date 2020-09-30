@@ -7,4 +7,5 @@ A generic web streaming platform made with react and nodeJS.
   - In-built RTMP server using the 'node-media-server' package.
 
 # Build Instructions
+  - DO NOT BUILD, THIS IS NOT PRODUCTION READY
   - Build instructions will be added later, when the docker image is made.
