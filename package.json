@@ -1,0 +1,12 @@
+{
+  "name": "Streaming-Platform",
+  "version": "1.0.0",
+  "author": "Joshua Sanderson <joshua@thisisthesandersons.co.uk>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "Dashboard",
+    "MainWebserver"
+  ]
+}
